@@ -19,18 +19,6 @@ The application exposes a simple web interface with:
 - A submit button that executes the input as system commands
 - Direct output display of command execution results
 
-### Key Components
-
-```
-damn_vulnerable_django/
-├── manage.py
-├── vulnerable_app/
-│   ├── views.py      # Contains vulnerable command execution
-│   ├── urls.py       # URL routing
-│   └── templates/    # HTML templates
-└── config/           # Django settings
-```
-
 ## Installation
 
 1. Create a virtual environment:
