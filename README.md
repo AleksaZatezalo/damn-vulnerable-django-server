@@ -1,4 +1,12 @@
 # Damn Vulnerable Django Server
+<div align="center">
+
+[![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+</div>
 
 ⚠️ **WARNING: This is a deliberately vulnerable application. DO NOT deploy on production systems or expose to the internet.**
 
