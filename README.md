@@ -43,12 +43,12 @@ pip install django
 
 3. Run migrations:
 ```bash
-python manage.py migrate
+python server.py migrate
 ```
 
 4. Start the development server:
 ```bash
-python manage.py runserver
+python server.py runserver
 ```
 
 ## Educational Use
